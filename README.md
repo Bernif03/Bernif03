@@ -1,72 +1,65 @@
-# 👋 ¡Hola! Soy Brigida Esmeralda Rodriguez Nieto
-### **Ingeniera en Sistemas | Full-Stack Developer | UX/UI Enthusiast** 🎨💻
+# 👋 Hola, soy Brigida Esmeralda Rodriguez Nieto
+### **Ingeniera en Sistemas | Full-Stack Developer | UX/UI Specialist** 🎨💻
 
-Me apasiona el ciclo completo de creación de productos digitales: desde la arquitectura técnica y el modelado de datos hasta el diseño de interfaces centradas en el usuario que resuelven problemas reales.
-
----
-
-## 🛠️ Stack Tecnológico
-
-| 🎨 Diseño UX/UI | 🌐 Frontend | ⚙️ Backend & DB | 🚀 Herramientas |
-| :--- | :--- | :--- | :--- |
-| Figma / Adobe XD | React.js / Next.js | Node.js / TypeScript | Prisma ORM |
-| Design Systems | Tailwind CSS | PostgreSQL | Git / GitHub |
-| Prototipado | JavaScript (ES6+) | REST APIs / SSE | PeopleSoft Integrations |
+> **¿En qué estoy trabajando actualmente?**
+> Me encuentro desarrollando soluciones de alta escalabilidad para una **importante empresa del sector turístico**, optimizando la logística y el control de activos mediante arquitecturas modernas.
+> 
+> * [x] **ERP de Inventario TI**: Finalizando módulos de asignación masiva y resguardos digitales.
+> * [x] **Live Logistics**: Implementando telemetría en tiempo real con Mapbox y SSE.
+> * [ ] **Design System Interno**: Documentando componentes en Figma para estandarizar interfaces corporativas.
 
 ---
 
-## 🚀 Proyectos Destacados (Sector Turístico & Corporativo)
+## 🚀 Proyectos en el Sector Turístico (Privados)
 
-Actualmente colaboro en el desarrollo de soluciones tecnológicas para una **importante empresa del sector turístico**, enfocándome en la optimización de procesos internos y logística.
+### 🧩 Ecosistema de Gestión de Activos (TI)
+Sistema robusto para el control de inventario tecnológico a nivel cadena hotelera.
+- **Arquitectura:** Next.js (App Router) + Prisma + PostgreSQL.
+- **UX Focus:** Formulario inteligente con estados derivados y validación DTO para procesos de auditoría.
+- **Integración:** Sincronización bidireccional con **PeopleSoft** para gestión de colaboradores.
 
-### 🧩 Sistema de Gestión de Activos TI (ERP Corporativo)
-Desarrollo de una plataforma integral para el control de inventario y activos tecnológicos de gran escala.
-* **Tech Stack:** Next.js (App Router), TypeScript, Prisma, PostgreSQL.
-* **Enfoque UX:** Diseño de dashboards administrativos complejos con navegación intuitiva y captura masiva de datos.
-* **Funcionalidades Clave:** * Gestión de ciclos de vida de equipos (Asignaciones, préstamos y resguardos).
-    * Arquitectura de API robusta con validación DTO y manejo de errores centralizado.
-    * Integración de datos con sistemas empresariales (**PeopleSoft**).
-
-### 🛰️ Live Logistics & Real-Time Tracking
-Sistema avanzado de geolocalización y monitoreo para la logística de traslados entre sedes corporativas.
-* **Tech Stack:** Next.js, Mapbox, Server-Sent Events (SSE).
-* **Desafío Técnico:** Implementación de streaming de datos en tiempo real y cálculo de **ETA (Estimated Time of Arrival)** mediante algoritmos de telemetría.
-* **Impacto Visual:** Interfaz de mapa interactiva diseñada para la toma de decisiones rápida en centros de control (Lobbies/Administración).
+### 🛰️ Live2 – Real-Time Tracking & Logistics
+Plataforma de monitoreo de flotas y tiempos de llegada (ETA) entre complejos turísticos.
+- **Tecnología:** Streaming de datos mediante **SSE (Server-Sent Events)**.
+- **UI/UX:** Dashboard de alto contraste para visibilidad en lobbies y centros de control.
+- **Back-end:** Motor de cálculo de trayectorias con filtros de ruido GPS y anti-teletransporte.
 
 ---
 
-## 🎨 Mi Enfoque en UX/UI
+## 📊 My GitHub Metrics
 
-No solo escribo código; diseño experiencias. Mi proceso incluye:
+[<img align="left" width="390" alt="Estadísticas Generales" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true">](#)
+[<img align="right" width="390" alt="Lenguajes más usados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&hide_langs=html,css">](#)
+[<img align="right" width="390" height="80" alt="Spacer" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
 
-* **Arquitectura de Información:** Estructuro datos complejos para que sean digeribles.
-* **Prototipado en Figma:** Creación de High-Fidelity Mockups antes de la implementación.
-* **Componentes Reutilizables:** Desarrollo de librerías de componentes consistentes en Tailwind para acelerar el desarrollo y mantener la identidad visual.
+[<img align="left" width="390" alt="Actividad" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical">](#)
+[<img align="right" width="390" alt="Logros" src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=NOMBRE_DE_TU_MEJOR_REPO_PUBLICO&theme=radical">](#)
 
----
-
-## 🧠 Áreas de Exploración & Otros Intereses
-- 🎮 Desarrollo de prototipos de videojuegos 2D en **Unity**.
-- 🤖 Automatización de flujos de trabajo y documentación técnica.
-- 📱 Diseño de interfaces Mobile-First.
+[<img width="100%" height="1" alt="Separador" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
 
 ---
 
-## 💼 ¿Qué aporto a un equipo?
+## 🛠️ Stack & Habilidades
 
-1.  **Visión Híbrida:** Entiendo las limitaciones técnicas del desarrollo y las necesidades estéticas del diseño.
-2.  **Arquitectura Limpia:** Código mantenible, tipado con TypeScript y siguiendo patrones de diseño modernos.
-3.  **Orientación a Soluciones:** Capacidad para traducir requerimientos de negocio complejos en herramientas funcionales.
+### **Frontend & Design**
+- **UX/UI:** Figma, Prototipado, User Flows, Design Systems.
+- **Web:** React, Next.js, Tailwind CSS (Dashboard Specialist).
+
+### **Backend & Data**
+- **Engine:** Node.js, TypeScript, REST APIs.
+- **DB:** PostgreSQL, Prisma ORM, Modelado relacional complejo.
+
+---
+
+## 💼 Valor Agregado
+- Capacidad de transformar lógica de negocio compleja en **interfaces intuitivas**.
+- Experiencia en **entornos corporativos críticos** con altos estándares de seguridad.
+- Enfoque en **performance** y manejo de datos en tiempo real.
 
 ---
 
-## 📫 Conecta conmigo
-- 📍 México
-- 💼 Buscando retos en: **Full-Stack Development / Product Design / UX Engineering**
-- ✉️ [Tu correo aquí]
-- 🔗 [Tu LinkedIn aquí]
+## 📫 Contacto
+- 📍 México  
+- 💼 Perfil: **Desarrollo Full-Stack / Sistemas Corporativos / UX Design** - ✉️ [Tu correo aquí]
 
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
-</p>
+<sub>Este perfil utiliza componentes inspirados en el diseño de @lowlighter para una visualización técnica avanzada.</sub>
