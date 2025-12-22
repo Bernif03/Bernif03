@@ -1,5 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="Intro Animation" />
+</p>
+
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&width=600&lines=Hola%2C+soy+Brigida+Esmeralda+Rodriguez+Nieto;Hola%2C+soy+Bernif" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&width=750&lines=Hola%2C+soy+Brigida+Esmeralda+Rodriguez+Nieto;Hola%2C+soy+Bernif" alt="Typing SVG" />
 </p>
 
 ### **Ingeniera en Sistemas | Full-Stack Developer | UX/UI Specialist** 🎨💻
