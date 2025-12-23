@@ -1,7 +1,13 @@
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:7c3aed,75:06b6d4,100:0d1117&height=180&section=header&text=BERNIF&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+</p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="Intro Animation" width="100%" />
+</p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&width=750&lines=Hola%2C+soy+Brigida+Esmeralda+Rodriguez+Nieto;Hola%2C+soy+Bernif" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&width=800&lines=Hola%2C+soy+Brigida+Esmeralda+Rodriguez+Nieto;Hola%2C+soy+Bernif" alt="Typing SVG" />
 </p>
 
 ### **Ingeniera en Sistemas | Full-Stack Developer | UX/UI Specialist** 🎨💻
@@ -94,7 +100,10 @@
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
     </td>
-    
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
   </tr>
 </table>
 
